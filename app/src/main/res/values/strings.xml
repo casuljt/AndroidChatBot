@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-ChatBot</string>
+    <string name="send">Send</string>
+    <string name="SelectBot">Who do you want to talk with today?</string>
+    <string name="AllChat">Continue your chats</string>
+    <string name="Setting">Setting</string>
+    <string name="back_button">Back</string>
+</resources>
